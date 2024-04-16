@@ -1,0 +1,37 @@
+
+/*Map  Leaflet*/
+#mapLeaflet {
+            height: 400px;
+            width: 100%;
+    }
+
+
+h1{
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #333;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+p{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #333;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+/*Map Libre*/
+
+#mapLibre{
+    height: 400px;
+    width: 100%;
+}
+
+.map-container {
+    height: 400px;
+    width: 100%;
+    display: block;
+}
