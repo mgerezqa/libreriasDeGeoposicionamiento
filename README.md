@@ -5,7 +5,7 @@ Mapbox es una plataforma de mapas en línea que ofrece mapas personalizables y s
 <br><br>Mapbox necesita de un token para ser utilizado, requiere registrarse con medio de pago, mientras que Maplibre ofrece un token gratis (previo registro) y Leaflet no precisa nada.
 <br><br>La documentación de Turf es mas compleja de leer por ende la curva de aprendizaje es mayor.
 
-<br><strong> Documentación de Leaflet </strong> <a href = #https://leafletjs.com/reference.html# target="_blank" >link</a>
+<br><strong> Documentación de Leaflet </strong> <a href = "https://leafletjs.com/reference.html" target="_blank" >link</a>
 <br><strong>Documentación de MapLibre </strong>  <a href="https://docs.mapbox.com/maplibre-gl-js/api/" target="_blank" >link</a>
 <br><strong>  Documentación Turf </strong> <a href="https://turfjs.org/" target="_blank" >link</a>
 
